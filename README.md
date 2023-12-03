@@ -6,13 +6,26 @@ The project has pandas, numpy, matplotlib, seaborn, keras and tensorflow librari
 
 The project is all for training aim. 
 
-Project Steps:
+Project Steps (Version 1):
 - Importing Necessary Libraries
 - Data Import
 - Data Analysis
-- Data Preprocessing
+- Image Prep
+- Display first 20 images
+- Preprocess Labels
 - Train Test Split
 - Data Augmentation
-- CNN Model
-- Fitting the model
-- Confussion Matrix
+- Convolutional Neural Network
+
+
+Project Steps (Version 2):
+- Importing Necessary Libraries
+- Data Import
+- Data Analysis
+- Image Prep
+- Train Test Split
+- Data Augmentation
+- Transfer Learning
+- Model Evaluation
+- Confusion Matrix
+- Plot Predictions
